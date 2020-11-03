@@ -1,5 +1,6 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -73,6 +74,8 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 =======
 =======
 >>>>>>> cc7325dada632f618e46cfeb686346ae14046cb6
+=======
+>>>>>>> cc7325dada632f618e46cfeb686346ae14046cb6
 # simple_todo_react
 A simple ReactJs Todolist project to demonstrate React hooks.
 This project touches on the concept od CRUD(Create, Read, Update and Delete) tasks operations. It also marks completed tasks.
@@ -80,6 +83,9 @@ The Hooks functions allow for functional components to have a state and use life
 the uses of Classes which would entail a more complex coding.
 There is no database use in this project. Hopefully this would be incorporated in a later iteration.
 <<<<<<< HEAD
+<<<<<<< HEAD
+>>>>>>> cc7325dada632f618e46cfeb686346ae14046cb6
+=======
 >>>>>>> cc7325dada632f618e46cfeb686346ae14046cb6
 =======
 >>>>>>> cc7325dada632f618e46cfeb686346ae14046cb6
